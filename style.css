@@ -1,0 +1,38 @@
+
+
+html,body{
+
+
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:gray;
+    position: relative;
+}
+
+
+.logo {
+    width: 100px;
+}
+
+
+.menu ul {
+
+list-style: none;
+}
+
+
+.menu li {
+
+display: inline;
+cursor: pointer;
+}
+
+.menu {
+
+    position:  absolute;
+    right: 40px;
+    bottom: 50px;
+}
